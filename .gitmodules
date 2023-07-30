@@ -1,0 +1,3 @@
+[submodule "CBP-Simulation"]
+	path = CBP-Simulation
+	url = https://github.com/zhpzhp/SuperBP-CBP-Simulation
